@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Let's test spoilers"
+description: "This is a test description..."
 author: sal
 categories: [ Jekyll, tutorial ]
-image: assets/images/12.jpg
+image: assets/images/12.webp
 featured: true
 hidden: true
 ---
