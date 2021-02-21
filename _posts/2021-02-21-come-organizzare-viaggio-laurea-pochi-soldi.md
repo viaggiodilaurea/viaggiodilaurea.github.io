@@ -5,7 +5,7 @@ description: "Laurea in vista? Se pensi di meritarti un bel viaggio ma temi di n
 author: vu
 categories: [ consigli ]
 image: assets/images/viaggio-laurea-amici.jpg
-featured: false
+featured: true
 hidden: true
 ---
 
