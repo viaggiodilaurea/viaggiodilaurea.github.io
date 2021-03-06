@@ -5,9 +5,6 @@ permalink: /cookie-policy
 comments: false
 ---
 
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
-
 <h6>1. Cosa sono i Cookie?</h6>
 <p>I Cookie sono stringhe di testo di piccole dimensioni che i siti visitati dall'utente inviano al suo terminale (solitamente al browser), dove vengono memorizzati per essere poi ritrasmessi agli stessi siti alla successiva visita del medesimo utente. Nel corso della navigazione su un sito, l'utente può ricevere sul suo terminale anche Cookie che vengono inviati da siti o da Web server diversi (c.d. "terze parti"), sui quali possono risiedere alcuni elementi (quali, ad esempio, immagini, mappe, suoni, specifici link a pagine di altri domini) presenti sul sito che lo stesso sta visitando.</p>
 <p>I Cookie, solitamente presenti nei browser degli utenti in numero molto elevato e a volte anche con caratteristiche di ampia persistenza temporale, sono usati per più finalità: esecuzione di autenticazioni informatiche, monitoraggio di sessioni, memorizzazione di informazioni su specifiche configurazioni riguardanti gli utenti che accedono al server, ecc. I Cookie non registrano alcuna informazione personale su un utente e gli eventuali dati identificabili non verranno memorizzati.</p>
@@ -72,6 +69,3 @@ Luogo del trattamento: Stati Uniti – <a href="https://www.google.it/intl/polic
 La presente informativa è redatta sulla base di molteplici ordinamenti legislativi, inclusi gli artt. 13 e 14 del Regolamento (UE) 2016/679.</p>
 <p>Ove non diversamente specificato, questa informativa riguarda esclusivamente questo sito.</p>
 <p>La presente informativa è stata aggiornata in data 06 marzo 2021.</p>
-
-</div>
-</div>
