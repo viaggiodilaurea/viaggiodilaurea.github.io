@@ -120,7 +120,11 @@
 <!-- Site Title
 ================================================== -->
 <div class="mainheading">
-    <h1 class="sitetitle">{{ site.name }}</h1>
+    {% if page.url == "/" %}
+	<h1 class="sitetitle">{{ site.name }}</h1>
+    {% else %}
+        <h2 class="sitetitle">{{ site.name }}</h2>
+    {% endif %}
     <p class="lead">
         <!-- {{ site.description }} -->
 	L'ispirazione che cerchi per la tua (stra) meritata fuga.
