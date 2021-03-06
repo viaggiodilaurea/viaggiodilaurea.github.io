@@ -2,7 +2,7 @@
 layout: page
 title: Privacy Policy
 permalink: /privacy-policy
-comments: true
+comments: false
 ---
 
 <div class="row justify-content-between">
@@ -117,9 +117,9 @@ Ulteriori informazioni in relazione al trattamento dei Dati Personali potranno e
 La presente informativa privacy è redatta sulla base di molteplici ordinamenti legislativi, inclusi gli artt. 13 e 14 del Regolamento (UE) 2016/679.</p>
 <p>Ove non diversamente specificato, questa informativa privacy riguarda esclusivamente questo sito.</p>
 <p><strong>8.6. Aggiornamenti periodici della presente informativa sulla privacy</strong><br />
-La presente informativa sulla privacy è valida ed efficace con decorrenza dal 6 marzo 2021 e potrà essere soggetta a modifiche nel tempo, anche per effetto di modifiche o integrazioni della vigente normativa.</p>
+La presente informativa sulla privacy è valida ed efficace con decorrenza dal 06 marzo 2021 e potrà essere soggetta a modifiche nel tempo, anche per effetto di modifiche o integrazioni della vigente normativa.</p>
 <p>Qualora il Titolare del Trattamento dovesse apportare qualsivoglia modifica significativa a tale documento, lo stesso ne darà informazione agli Interessati attraverso i mezzi che riterrà più idonei allo scopo (quale, a titolo meramente esemplificativo e non esaustivo, la pubblicazione sulla home page del Sito Internet e/o l’invio di una newsletter all’indirizzo email fornito dagli Interessati).</p>
-<p>La presente informativa è stata aggiornata in data 6 marzo 2021.</p>
+<p>La presente informativa è stata aggiornata in data 06 marzo 2021.</p>
 
 </div>
 </div>
