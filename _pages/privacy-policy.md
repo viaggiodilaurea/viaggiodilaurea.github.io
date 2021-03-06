@@ -1,0 +1,125 @@
+---
+layout: page
+title: Privacy Policy
+permalink: /privacy-policy
+comments: true
+---
+
+<div class="row justify-content-between">
+<div class="col-md-8 pr-5">
+
+<p>Questo sito raccoglie alcuni Dati Personali dei propri Utenti.</p>
+<h6> 1. Titolare del Trattamento dei Dati</h6>
+<p>Il Titolare del Trattamento dei Dati di questo sito web è <strong>Friends srls</strong>.</p>
+<ul>
+<li>Partita IVA: 07667741214</li>
+<li>Sede legale: Corso Secondigliano, 265 - Napoli.</li>
+<li>E-mail: <a href="mailto:info@viaggiuniversitari.it">info@viaggiuniversitari.it</a></li>
+<li>Tel: <a href="tel:081 7545178">081 7545178</a></li>
+</ul>
+<h6>2. Quali Dati raccoglie questo sito</h6>
+<p>Fra i Dati Personali raccolti da questo sito, in modo autonomo o tramite terze parti, ci sono: Cookie, Dati di utilizzo, Nome, Cognome, Email, Nazione, Stato.</p>
+<p>I Dati Personali possono essere liberamente forniti dall'Utente o, nel caso di Dati di Utilizzo, raccolti automaticamente durante l'uso di questo sito. Se non diversamente specificato, tutti i Dati richiesti da questo sito sono obbligatori. Se l'Utente rifiuta di comunicarli, potrebbe essere impossibile per questo sito fornire il Servizio. L'eventuale utilizzo di Cookie - o di altri strumenti di tracciamento - da parte di questo sito o dei titolari dei servizi terzi utilizzati da questo sito, ove non diversamente precisato, ha la finalità di fornire il Servizio richiesto dall'Utente, oltre alle ulteriori finalità descritte nel presente documento e nella Cookie Policy.</p>
+<p>L'Utente si assume la responsabilità dei Dati Personali di terzi ottenuti, pubblicati o condivisi mediante questo sito e garantisce di avere il diritto di comunicarli o diffonderli, liberando il Titolare da qualsiasi responsabilità verso terzi.</p>
+<h6>3. Modalità e luogo del trattamento dei Dati raccolti</h6>
+<p><strong>3.1. Modalità di trattamento</strong><br />
+Il Titolare adotta le opportune misure di sicurezza volte ad impedire l'accesso, la divulgazione, la modifica o la distruzione non autorizzate dei Dati Personali. Il trattamento viene effettuato mediante strumenti informatici e/o telematici, con modalità organizzative e con logiche strettamente correlate alle finalità indicate. Oltre al Titolare, in alcuni casi, potrebbero avere accesso ai Dati soggetti esterni - come fornitori di servizi tecnici terzi, corrieri postali, 
+  provider, società informatiche, agenzie di comunicazione - nominati Responsabili del Trattamento da parte del Titolare. L'elenco aggiornato dei Responsabili potrà sempre essere richiesto al Titolare del Trattamento.</p>
+<p><em>Luogo</em><br />
+I Dati sono trattati presso le sedi operative del Titolare e in ogni altro luogo in cui le parti coinvolte nel trattamento siano localizzate. Per ulteriori informazioni, contatta il Titolare. I Dati Personali dell'Utente potrebbero essere trasferiti in un paese diverso da quello in cui l'Utente si trova.</p>
+<p><em>Periodo di conservazione</em><br />
+I Dati sono trattati e conservati per il tempo richiesto dalle finalità per le quali sono stati raccolti. Quando il trattamento è basato sul consenso dell'Utente, il Titolare può conservare i Dati Personali più a lungo sino a quando detto consenso non venga revocato. Inoltre il Titolare potrebbe essere obbligato a conservare i Dati Personali per un periodo più lungo in ottemperanza ad un obbligo di legge o per ordine di un'autorità. L'utente può chiedere in qualunque momento al Titolare l'interruzione del Trattamento o la cancellazione dei Dati.</p>
+<p><strong>3.2. Finalità del trattamento dei dati raccolti</strong><br />
+I Dati dell'Utente sono raccolti per consentire al Titolare di fornire i propri Servizi, così come per le seguenti finalità: Contattare l'Utente, Statistica, Hosting ed infrastruttura backend, Remarketing e behavioral targeting, Visualizzazione di contenuti da piattaforme esterne.</p>
+<p>Per ottenere ulteriori informazioni dettagliate sulle finalità del trattamento e sui Dati Personali concretamente rilevanti per ciascuna finalità, l'Utente può fare riferimento alle relative sezioni di questo documento.</p>
+<p><strong>3.3. Dettagli sul trattamento dei Dati Personali</strong><br />
+I Dati Personali sono raccolti per le seguenti finalità ed utilizzando i seguenti servizi:</p>
+<p><strong>Contattare l'Utente</strong><br />
+<p><em>Contatto via telefono</em><br />
+Gli Utenti che hanno fornito il proprio numero di telefono potrebbero essere contattati per finalità commerciali o promozionali collegate a questo sito, così come per soddisfare richieste di supporto.<br />
+Dati Personali raccolti: Numero di telefono.</p>
+<p><em>Modulo di contatto</em><br />
+L'Utente, compilando con i propri Dati il modulo di contatto, acconsente al loro utilizzo per rispondere alle richieste di informazioni, di preventivo, o di qualunque altra natura indicata dall'intestazione del modulo.<br />
+Dati personali raccolti: Nome, Cognome, Email, Nazione, Stato.</p>
+<p><strong>Comunicazione dei Dati Personali</strong><br />
+I dati personali raccolti potranno essere comunicati a organismi di vigilanza, autorità giudiziarie nonché a tutti i soggetti ai quali la comunicazione sia obbligatoria per legge e/o necessario per l’espletamento delle finalità sopra descritte.
+<p><strong>Modalità di trattamento dei dati personali raccolti e periodo di conservazione</strong><br />
+I dati raccolti posso essere sottoposti a trattamento sia cartaceo che elettronico e/o automatizzato.
+In ogni caso, il Titolare del Trattamento tratterà i dati personali raccolti per il tempo necessario per adempiere alle finalità di cui alla presente informativa e, in ogni caso, per un periodo non eccedente a quanto richiesto dalla normativa vigente (ivi inclusa la normativa in materia fiscale).
+<p><strong>3.4. Gestione dei tag</strong><br />
+Questo tipo di servizi è funzionale alla gestione centralizzata dei tag o script utilizzati su questo sito. L'uso di tali servizi comporta il fluire dei Dati dell'Utente attraverso gli stessi e, se del caso, la loro ritenzione.</p>
+<p><em>Google Tag Manager (Google Ireland Limited)</em><br />
+Google Tag Manager è un servizio di gestione dei tag fornito da Google Ireland Limited.<br />
+Dati Personali raccolti: Cookie e Dati di utilizzo.<br />
+Luogo del trattamento: Stati Uniti – <a href="https://policies.google.com/privacy?hl=it" target="_blank">Privacy Policy</a>. Soggetto aderente al Privacy Shield.</p>
+<p><strong>3.5. Statistica</strong><br />
+I servizi contenuti nella presente sezione permettono al Titolare del Trattamento di monitorare e analizzare i dati di traffico e servono a tener traccia del comportamento dell'Utente.</p>
+<p><em>Google Analytics (Google Ireland Limited)</em><br />
+Google Analytics è un servizio di analisi web fornito da Google Ireland Limited ("Google"). Google utilizza i dati personali raccolti allo scopo di tracciare ed esaminare l'utilizzo di questo sito, compilare report e condividerli con gli altri servizi sviluppati da Google. Google potrebbe utilizzare i dati personali per contestualizzare e personalizzare gli annunci del proprio network pubblicitario.<br />
+Dati personali raccolti: Cookie e Dati di utilizzo.<br />
+Luogo del trattamento: Stati Uniti – <a href="https://policies.google.com/privacy?hl=it" target="_blank">Privacy Policy</a> – <a href="https://tools.google.com/dlpage/gaoptout?hl=it" target="_blank">Opt Out</a>. Soggetto aderente al Privacy Shield.</p>
+<p><em>Google Analytics con IP anonimizzato (Google Ireland Limited)</em><br />
+Google Analytics è un servizio di analisi web fornito da Google Ireland Limited ("Google"). Google utilizza i dati personali raccolti allo scopo di tracciare ed esaminare l'utilizzo di questo sito, compilare report e condividerli con gli altri servizi sviluppati da Google. Google potrebbe utilizzare i Dati Personali per contestualizzare e personalizzare gli annunci del proprio network pubblicitario. Questa integrazione di Google Analytics rende anonimo il tuo indirizzo IP. L'anonimizzazione funziona abbreviando entro i confini degli stati membri dell'Unione Europea o in altri Paesi aderenti all'accordo sullo Spazio Economico Europeo l'indirizzo IP degli Utenti. Solo in casi eccezionali, l'indirizzo IP sarà inviato ai server di Google ed abbreviato all'interno degli Stati Uniti.<br />
+Dati Personali raccolti: Cookie e Dati di utilizzo.<br />
+Luogo del trattamento: Stati Uniti – <a href="https://policies.google.com/privacy?hl=it" target="_blank">Privacy Policy</a> – <a href="https://tools.google.com/dlpage/gaoptout?hl=it" target="_blank">Opt Out</a>. Soggetto aderente al Privacy Shield.</p>
+<p><strong>3.6. Hosting e infrastruttura backend</strong><br />
+Questo tipo di servizi ha la funzione di ospitare dati e file che permettono a questo sito di funzionare, ne consentono la distribuzione e mettono a disposizione un'infrastruttura pronta all'uso per erogare specifiche funzionalità di questo sito.<br />
+Dati personali raccolti: varie tipologie di dati secondo quanto specificato dalla privacy policy del servizio.<br />
+Luogo del trattamento: Stati Uniti – <a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" target="_blank">Privacy Policy</a>.</p>
+<p><strong>3.7. Visualizzazione di contenuti da piattaforme esterne</strong><br />
+Questo tipo di servizi permette di visualizzare contenuti ospitati su piattaforme esterne direttamente dalle pagine di questo sito e di interagire con essi. Nel caso in cui sia installato un servizio di questo tipo, è possibile che, anche nel caso gli Utenti non utilizzino il servizio, lo stesso raccolga dati di traffico relativi alle pagine in cui è installato.</p>
+<p><em>Google Fonts (Google Ireland Limited)</em><br />
+Google Fonts è un servizio di visualizzazione di stili di carattere gestito da Google Ireland Limited che permette a questo sito di integrare tali contenuti all'interno delle proprie pagine.<br />
+Dati personali raccolti: Dati di utilizzo e varie tipologie di Dati secondo quanto specificato dalla privacy policy del servizio.<br />
+Luogo del trattamento: Stati Uniti – <a href="https://www.google.it/intl/policies/privacy/" target="_blank">Privacy Policy</a>. Soggetto aderente al Privacy Shield.</p>
+<p><em>Font Awesome (Fonticons, Inc. )</em><br />
+Font Awesome è un servizio di visualizzazione di stili di carattere gestito da Fonticons, Inc. che permette a Pasticceria Milky di integrare tali contenuti all’interno delle proprie pagine.<br />
+Dati Personali trattati: Dati di utilizzo.<br />
+Luogo del trattamento: Stati Uniti – <a href="https://fontawesome.com/privacy" target="_blank">Privacy Policy</a>.<br />
+Categoria dei dati personali raccolti ai sensi del CCPA: informazioni su Internet.<br />
+Questo tipo di trattamento costituisce una “vendita di dati” (“sale”) ai sensi del CCPA. Oltre alle informazioni contenute in questa clausola, l’Utente può consultare la sezione che descrive i diritti dei consumatori californiani, per avere informazioni relative alle modalità di opt-out dalla vendita.</p>
+<p><em>Widget YouTube (Google Ireland Limited)</em><br />
+YouTube è un servizio di visualizzazione di contenuti video gestito da Google Ireland Limited che permette a questa Applicazione di integrare tali contenuti all'interno delle proprie pagine.<br />
+Dati personali raccolti: Dati di utilizzo e varie tipologie di Dati secondo quanto specificato dalla privacy policy del servizio.<br />
+Luogo del trattamento: Stati Uniti - <a href="https://www.google.it/intl/policies/privacy/" target="_blank">Privacy Policy</a>. Soggetto aderente al Privacy Shield.</p>
+<p><em>Widget Google Maps (Google Ireland Limited)</em><br />
+Google Maps è un servizio di visualizzazione di mappe gestito da Google Ireland Limited che permette a questa Applicazione di integrare tali contenuti all’interno delle proprie pagine.<br />
+Luogo del trattamento: Stati Uniti – <a href="https://www.google.it/intl/policies/privacy/" target="_blank">Privacy Policy</a>. Soggetto aderente al Privacy Shield.</p>
+<h6>4. Diritti dell'Utente</h6>
+<p>Gli Utenti possono esercitare determinati diritti con riferimento ai Dati trattati dal Titolare.</p>
+<p>In particolare, l'Utente ha il diritto di:</p>
+<ul>
+<li>revocare il consenso in ogni momento. L'Utente può revocare il consenso al trattamento dei propri Dati Personali precedentemente espresso.</li>
+<li>opporsi al trattamento dei propri Dati. L'Utente può opporsi al trattamento dei propri Dati quando esso avviene su una base giuridica diversa dal consenso.</li>
+<li>accedere ai propri Dati. L'Utente ha diritto ad ottenere informazioni sui Dati trattati dal Titolare, su determinati aspetti del trattamento ed a ricevere una copia dei Dati trattati.</li>
+<li>verificare e chiedere la rettificazione. L'Utente può verificare la correttezza dei propri Dati e richiederne l'aggiornamento o la correzione.</li>
+<li>ottenere la limitazione del trattamento. Quando ricorrono determinate condizioni, l'Utente può richiedere la limitazione del trattamento dei propri Dati. In tal caso, il Titolare non tratterà i Dati per alcun altro scopo se non la loro conservazione.</li>
+<li>ottenere la cancellazione o rimozione dei propri Dati Personali. Quando ricorrono determinate condizioni, l'Utente può richiedere la cancellazione dei propri Dati da parte del Titolare.</li>
+<li>ricevere i propri Dati o farli trasferire ad altro titolare. L'Utente ha diritto di ricevere i propri Dati in formato strutturato, di uso comune e leggibile da dispositivo automatico e, ove tecnicamente fattibile, di ottenerne il trasferimento senza ostacoli ad un altro titolare. Questa disposizione è applicabile quando i Dati sono trattati con strumenti automatizzati ed il trattamento è basato sul consenso dell'Utente, su un contratto di cui l'Utente è parte o su misure contrattuali ad esso connesse.</li>
+<li>proporre reclamo. L'Utente può proporre un reclamo all'autorità di controllo della protezione dei dati personali competente o agire in sede giudiziale.</li>
+</ul>
+<h6>5. Come esercitare i diritti</h6>
+<p>Per esercitare i diritti dell'Utente, gli Utenti possono indirizzare una richiesta agli estremi di contatto del Titolare indicati in questo documento. Le richieste sono depositate a titolo gratuito e evase dal Titolare nel più breve tempo possibile, in ogni caso entro un mese.</p>
+<h6>6. Tutela dei minori</h6>
+<p>Il Titolare del Trattamento non permette a persone minori di età inferiore a 16 anni di usufruire dei suoi servizi e, pertanto, non raccoglie intenzionalmente informazioni relative ad essi. Qualora dovesse accorgersi di aver raccolto dati relativi a persone minori di anni 16, in assenza di un consenso genitoriale dimostrabile, provvederà a cancellare tali dati nel minor tempo possibile.</p>
+<h6>7. Cookie Policy</h6>
+<p>Questo sito fa utilizzo di Cookie. Per saperne di più e per prendere visione dell'informativa dettagliata, l'Utente può consultare la Cookie Policy di questo sito.</p>
+<h6>8. Ulteriori informazioni sul trattamento</h6>
+<p><strong>8.1. Difesa in giudizio</strong><br />
+I Dati Personali dell'Utente possono essere utilizzati da parte del Titolare in giudizio o nelle fasi preparatorie alla sua eventuale instaurazione per la difesa da abusi nell'utilizzo di questo sito o dei Servizi connessi da parte dell'Utente. L'Utente dichiara di essere consapevole che il Titolare potrebbe essere obbligato a rivelare i Dati per ordine delle autorità pubbliche.</p>
+<p><strong>8.2. Informative specifiche</strong><br />
+Su richiesta dell'Utente, in aggiunta alle informazioni contenute in questa privacy policy, questo sito potrebbe fornire all'Utente delle informative aggiuntive e contestuali riguardanti Servizi specifici, o la raccolta ed il trattamento di Dati Personali.</p>
+<p><strong>8.3. Log di sistema e manutenzione</strong><br />
+Per necessità legate al funzionamento ed alla manutenzione, questo sito e gli eventuali servizi terzi da esso utilizzati potrebbero raccogliere Log di sistema, ossia file che registrano le interazioni e che possono contenere anche Dati Personali, quali l'indirizzo IP Utente.</p>
+<p><strong>8.4. Informazioni non contenute in questa policy</strong><br />
+Ulteriori informazioni in relazione al trattamento dei Dati Personali potranno essere richieste in qualsiasi momento al Titolare del Trattamento utilizzando gli estremi di contatto.</p>
+<p><strong>8.5. Riferimenti legali</strong><br />
+La presente informativa privacy è redatta sulla base di molteplici ordinamenti legislativi, inclusi gli artt. 13 e 14 del Regolamento (UE) 2016/679.</p>
+<p>Ove non diversamente specificato, questa informativa privacy riguarda esclusivamente questo sito.</p>
+<p><strong>8.6. Aggiornamenti periodici della presente informativa sulla privacy</strong><br />
+La presente informativa sulla privacy è valida ed efficace con decorrenza dal 6 marzo 2021 e potrà essere soggetta a modifiche nel tempo, anche per effetto di modifiche o integrazioni della vigente normativa.</p>
+<p>Qualora il Titolare del Trattamento dovesse apportare qualsivoglia modifica significativa a tale documento, lo stesso ne darà informazione agli Interessati attraverso i mezzi che riterrà più idonei allo scopo (quale, a titolo meramente esemplificativo e non esaustivo, la pubblicazione sulla home page del Sito Internet e/o l’invio di una newsletter all’indirizzo email fornito dagli Interessati).</p>
+<p>La presente informativa è stata aggiornata in data 6 marzo 2021.</p>
+
+</div>
+</div>
