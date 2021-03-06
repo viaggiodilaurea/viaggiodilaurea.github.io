@@ -5,9 +5,6 @@ permalink: /privacy-policy
 comments: false
 ---
 
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
-
 <p>Questo sito raccoglie alcuni Dati Personali dei propri Utenti.</p>
 <h6> 1. Titolare del Trattamento dei Dati</h6>
 <p>Il Titolare del Trattamento dei Dati di questo sito web è <strong>Friends srls</strong>.</p>
@@ -120,6 +117,3 @@ La presente informativa privacy è redatta sulla base di molteplici ordinamenti 
 La presente informativa sulla privacy è valida ed efficace con decorrenza dal 06 marzo 2021 e potrà essere soggetta a modifiche nel tempo, anche per effetto di modifiche o integrazioni della vigente normativa.</p>
 <p>Qualora il Titolare del Trattamento dovesse apportare qualsivoglia modifica significativa a tale documento, lo stesso ne darà informazione agli Interessati attraverso i mezzi che riterrà più idonei allo scopo (quale, a titolo meramente esemplificativo e non esaustivo, la pubblicazione sulla home page del Sito Internet e/o l’invio di una newsletter all’indirizzo email fornito dagli Interessati).</p>
 <p>La presente informativa è stata aggiornata in data 06 marzo 2021.</p>
-
-</div>
-</div>
