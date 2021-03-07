@@ -70,6 +70,10 @@ adsense-data-ad-slot: "1363087678"
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
 
+google:
+  tag_manager:
+    container_id: GTM-546SGX9
+
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
 
 # Timezone
