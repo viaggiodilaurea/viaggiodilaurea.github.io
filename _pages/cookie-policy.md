@@ -3,6 +3,7 @@ layout: page
 title: Cookie Policy
 permalink: /cookie-policy/
 comments: false
+sitemap: false
 ---
 
 <h6>1. Cosa sono i Cookie?</h6>
