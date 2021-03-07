@@ -3,6 +3,7 @@ layout: page
 title: Privacy Policy
 permalink: /privacy-policy/
 comments: false
+sitemap: false
 ---
 
 <p>Questo sito raccoglie alcuni Dati Personali dei propri Utenti.</p>
