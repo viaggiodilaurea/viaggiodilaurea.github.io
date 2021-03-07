@@ -29,7 +29,7 @@
 </head>
 
 {% if jekyll.environment == 'production' %}
-<!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- Global site tag (gtag.js) - Google Analytics 
 <link rel="preconnect" as="script" href="https://www.googletagmanager.com/gtag/js?id={{site.google_analytics}}">
   
 <script>
@@ -37,12 +37,16 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', '{{site.google_analytics}}');
-</script>
+</script> -->
+
+{% include gtm-script.js %}
+	
 {% endif %}
 
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 <body class="{{layout}}">
+	{% include gtm-no-script.html %}
 	<!-- defer loading of font and font awesome -->
 	<noscript id="deferred-styles">
 		<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
