@@ -32,7 +32,8 @@
     }
 
     if(readCookie('cookie-notice-dismissed')=='true') {
-        {% include ga.js %}
+        {% include gtm-head.js %}
+        {% include gtm-body.html %}
     } else {
         document.getElementById('cookie-notice').style.display = 'block';
     }
