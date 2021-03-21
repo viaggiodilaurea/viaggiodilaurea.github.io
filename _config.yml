@@ -2,10 +2,10 @@
 name: "Viaggio di laurea"
 title: "Viaggio di Laurea"
 description: ""
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/viaggio-laurea.png'
+favicon: 'assets/images/viaggio-laurea.png'
 baseurl: /
-google_analytics: 'UA-191529273-1'
+google_analytics:
 disqus:
 mailchimp-list:
 include: ["_pages"]
