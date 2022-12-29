@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+  <meta charset="utf-8">
+  <title>Viaggio di Laurea: Idee e Consigli per il Tuo Viaggio Post Laurea</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="icon" type="image/png" href="/images/favicon-32x32.svg">
+  <!-- Google Fonts CDN -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+  <!-- Self host font -->
+  <!-- <link rel="preload" href="/assets/fonts/playfair-display.woff2" as="font" type="font/woff2" crossorigin> -->
+  <link href="/assets/css/style.css" rel="stylesheet">
+  
+  <meta name="description" content="Ami viaggiare e ti stai per laureare? Scopri tutte le idee per organizzare il viaggio che ricorderai per tutta la vita..." />
+  <meta property="og:title" content="Viaggio di Laurea: Idee e Consigli per il Tuo Viaggio Post Laurea"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:url" content=""/>
+  
+  <meta property="og:description" content="Ami viaggiare e ti stai per laureare? Scopri tutte le idee per organizzare il viaggio che ricorderai per tutta la vita..."/>
+  <meta name="twitter:card" content="summary"/>
+  <meta name="twitter:site" content=""/>
+  <meta name="twitter:creator" content=""/>
+
+</head>
+
+<body class='page page-home' id="top">
+  <!--<div id="main-menu-mobile" class="main-menu-mobile">
+  
+  <ul>
+    
+    <li class="">
+      <a href="/services/">Services</a>
+    </li>
+    
+    <li class="">
+      <a href="/team/">Team</a>
+    </li>
+    
+    <li class="">
+      <a href="/about/">About</a>
+    </li>
+    
+    <li class="">
+      <a href="/contact/">Contact</a>
+    </li>
+    
+  </ul>
+</div>-->
+
+  <div id="wrapper" class="wrapper">
+    <div class='header'>
+  <div class="container">
+    <div class="logo">
+      <a href="/" style="font-family: 'Playfair Display',serif,-apple-system; font-size: 25px; text-decoration: none; font-weight: bold; color: #2f2f41; line-height: 1.2;">Viaggio <span style="color: #e5261f;">di laurea</span></a>
+    </div>
+    <div class="logo-mobile">
+      <a href="/" style="font-family: 'Playfair Display',serif,-apple-system; font-size: 20px; text-decoration: none; font-weight: bold; color: #2f2f41; line-height: 1.2;">Viaggio <span style="color: #e5261f;">di laurea</span></a>
+    </div>
+    <!--<div id="main-menu" class="main-menu">
+  
+  <ul>
+    
+    <li class="">
+      <a href="/services/">Services</a>
+    </li>
+    
+    <li class="">
+      <a href="/team/">Team</a>
+    </li>
+    
+    <li class="">
+      <a href="/about/">About</a>
+    </li>
+    
+    <li class="">
+      <a href="/contact/">Contact</a>
+    </li>
+    
+  </ul>
+</div>-->
+
+    <!--<button id="toggle-main-menu-mobile" class="hamburger hamburger--slider" type="button" aria-label="Mobile Menu">
+  <span class="hamburger-box">
+    <span class="hamburger-inner"></span>
+  </span>
+</button>-->
+  </div>
+</div>
+
+    <div class="intro">
+  <div class="container">
+    <div class="row justify-content-start">
+      <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
+        <h1 id="serif---a-jekyll-business-theme">Vuoi vivere un viaggio di laurea eccitante?</h1>
+
+<p>Tocco e pergamena sono in arrivo... Ora è il momento di pianificare la tua fuga perfetta!<br />Sì, anche se hai poco tempo e budget...</p>
+
+        
+      </div>
+      
+      <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
+        <img alt="Viaggio di laurea" class="intro-image intro-image-relative intro-image-hide-mobile" src="images/illustrations/trip.svg" />
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+<div class="strip">
+  <div class="container pt-1 pb-6 pb-md-10">
+    <div class="row justify-content-start">
+      <div class="col-12 col-md-8 mb-1">
+        <div class="service service-summary">
+          <div class="service-content">
+            <h2 class="service-title">Indice</h2>
+            <p>
+				<a href="#organizzare">Come organizzare (bene) il tuo viaggio di laurea</a><br />
+				<a href="#periodo">Qual è il periodo migliore per il tuo viaggio di laurea</a><br />
+				<a href="#cosa-fare">Cosa fare in un viaggio di laurea</a><br />
+				<a href="#quanto-costa">Quanto costa un viaggio di laurea</a><br />
+				<a href="#conclusione">Allora, cosa aspetti?</a>
+			</p>
+          </div>
+		  <div class="content pt-6">
+			<p>Il viaggio di laurea è un'occasione unica per festeggiare la fine degli studi universitari e per godersi un po' di meritato riposo prima di affrontare il mondo del lavoro. Negli ultimi anni, questa tradizione è diventata sempre più popolare, sia tra gli studenti italiani che in molti altri Paesi.</p>
+			<p>Un viaggio di laurea può essere l'occasione perfetta per visitare una nuova destinazione, scoprire nuove culture e fare nuove amicizie. Molti studenti scelgono di partire con un gruppo di amici o con la propria famiglia, mentre altri preferiscono viaggiare da soli o in coppia. In ogni caso, è importante pianificare il viaggio con anticipo, per evitare spiacevoli sorprese e godersi al meglio la propria vacanza.</p>
+			<h2 id="organizzare">Come organizzare (bene) il tuo viaggio di laurea</h2>
+			<p>Per pianificare al meglio un viaggio di laurea, è importante seguire alcune indicazioni.</p>
+			<p>Innanzitutto, è fondamentale scegliere la destinazione in base alle proprie preferenze e alle proprie possibilità economiche. A questo proposito, può essere utile fare una ricerca accurata online, per trovare le località più adatte alle tue esigenze e per confrontare i prezzi di voli e hotel.</p>
+			<p>La scelta della destinazione per un viaggio di laurea è un momento importante e può influire in modo notevole sulla riuscita del viaggio.</p>
+			<p>Ecco alcuni consigli per scegliere la destinazione ideale per il tuo viaggio di laurea:</p>
+			<h3>Definisci preferenze e interessi</h3>
+			<p>Prima di tutto, è importante riflettere su ciò che vuoi fare durante il tuo viaggio di laurea. Ad esempio, se ami la natura, potresti scegliere per una destinazione con paesaggi mozzafiato, come le Alpi o la Sicilia. Se invece ti appassionano storia e arte, potresti optare per una destinazione come Firenze, Parigi o Barcellona.</p>
+			<h3>Tieni presente il tuo budget</h3>
+			<p>Un altro fattore importante da considerare nella scelta della destinazione è il budget a disposizione. Ad esempio, se hai pochi soldi da spendere, meglio scegliere destinazioni meno costose o meno popolari, come il Salento o il Portogallo, che offrono un ottimo rapporto qualità-prezzo. Inoltre, puoi risparmiare sull'alloggio se decidi di viaggiare fuori stagione, o se ti accontenti di alloggi alternativi, come ostelli o bed and breakfast.</p>
+			<h3>Scegli la destinazione secondo la durata del viaggio</h3>
+			<p>La durata del viaggio di laurea è un altro fattore da considerare nella scelta della destinazione. Ad esempio, se hai solo una settimana a disposizione, potresti scegliere una meta più vicina, magari con voli diretti dalla tua città, come Napoli o la Sicilia. Se invece hai più tempo a disposizione, puoi anche puntare a una destinazione più lontana, come il Portogallo o l'Islanda.</p>
+			<h3>Valuta il periodo dell'anno</h3>
+			<p>Anche il periodo dell'anno è un fattore da considerare nella scelta della tua destinazione. Ad esempio, se la tua preferenza è per destinazioni calde e con un clima mite, il periodo migliore potrebbe essere quello compreso tra maggio e ottobre. Se invece prediligi destinazioni con climi più freschi e con attività all'aperto, il periodo migliore potrebbe essere quello compreso tra marzo e aprile o tra settembre e novembre.</p>
+			<p>Ricorda anche che alcune destinazioni sono più affollate nei mesi estivi o per le festività, quindi potrebbe essere conveniente evitare questi periodi, soprattutto se vuoi risparmiare sull'alloggio o se preferisci posti non troppo affollati.</p>
+			<p>Una volta scelta la destinazione, è importante organizzare il viaggio di laurea in modo da sfruttare al meglio il tempo a tua disposizione. A questo proposito, può essere utile preparare un itinerario dettagliato, che includa le attività che vuoi fare e quel che vuoi vedere, e prenotare in anticipo i biglietti per i trasporti e per le attrazioni turistiche più famose. In questo modo, eviterai spiacevoli sorprese.</p>
+			<p>Inoltre, è importante tener presente tempo e budget disponibili, per non spendere troppo o  dover rinunciare a qualcosa di importante. A questo proposito, può essere utile fare un elenco delle spese previste, come ad esempio il costo del volo, dell'alloggio e dei trasporti, e stabilire un budget per le attività e per i pasti. Inoltre, è importante tenere presente che i viaggi di laurea possono essere anche l'occasione per fare un regalo a se stessi, quindi è possibile prevedere qualche piccolo extra, come ad esempio un massaggio o una cena in un ristorante di lusso.</p>
+			<p>Infine, è importante non dimenticare di preparare tutto il necessario per il viaggio: oltre alla valigia, per esempio, il passaporto o il visto (se necessari), il vaccino antinfluenzale e il kit di pronto soccorso.</p>
+			<p>Assicurati di avere a disposizione tutti i documenti importanti, come ad esempio il biglietto aereo e il voucher dell'hotel, e di fare una copia di tutti questi documenti, da tenere in un luogo sicuro in caso di emergenza.</p>
+			<h2 id="periodo">Qual è il periodo migliore per il tuo viaggio di laurea</h2>
+			<p>Il periodo migliore per fare un viaggio di laurea dipende dalle tue preferenze e dalla meta scelta.</p>
+			<p>Alcuni studenti preferiscono partire subito dopo la laurea, mentre altri optano per un viaggio in un momento successivo dell'anno. In ogni caso, è importante tenere presente alcune considerazioni pratiche:</p>
+			<p>- Se scegli una destinazione in cui il clima è particolarmente caldo, è meglio evitare di partire nei mesi estivi, quando le temperature sono più elevate e i prezzi delle strutture ricettive e dei voli tendono ad aumentare.</p>
+			<p>- Se vuoi risparmiare sui costi del viaggio, meglio pianificarlo in anticipo e cercare offerte e pacchetti low cost. Molti siti di viaggio offrono sconti e promozioni per chi prenota con largo anticipo.</p>
+			<p>- Se vuoi viaggiare con un gruppo di amici, è importante decidere insieme la data di partenza e di ritorno, in modo da poter prenotare tutto per tempo.</p>
+			<p>In ogni caso, prima di partire, ti consigliamo di verificare le previsioni meteorologiche della destinazione scelta, per assicurati di viaggiare in un periodo ideale per quel che hai in mente di fare e di vedere.</p>
+			<h2 id="cosa-fare">Cosa fare in un viaggio di laurea</h2>
+			<p>I viaggi di laurea sono l'occasione ideale per fare nuove esperienze, conoscere persone interessanti e divertirti.</p>
+			<p>Spesso i neo-laureati decidono di mettersi alla prova con attività avventurose, come il bungee jumping o il rafting, o di visitare luoghi di interesse storico o culturale, come musei, monumenti o siti archeologici.</p>
+			<p>Va da sé che un viaggio è anche un'opportunità per imparare cose nuove e per arricchire il tuo bagaglio culturale, sia attraverso la scoperta di nuove tradizioni e di nuove realtà culturali, sia con la partecipazione a corsi o workshop organizzati appositamente per i turisti.</p>
+			<p>Ecco alcune idee per un viaggio di laurea:</p>
+			<h3>Visita i luoghi di interesse turistico</h3>
+			<p>Uno dei modi migliori per trascorrere il tempo durante un viaggio di laurea è visitare i luoghi di interesse turistico della meta scelta. Ad esempio, potresti visitare i musei, le gallerie d'arte, i monumenti storici o i parchi naturali. In questo modo, avrai l'opportunità di conoscere la cultura e la storia del luogo e di trascorrere del tempo all'aria aperta.</p>
+			<h3>Partecipa ad attività all'aperto</h3>
+			<p>Se ti piacciono l'avventura e gli sport, potresti optare per attività all'aperto come il trekking, il rafting o il surf. In questo modo, avrai potrai sperimentare nuove attività e scoprire luoghi incredibili. Quale migliore occasione, poi, per fare un po’ di sano esercizio fisico e prenderti cura di te, se non il viaggio di laurea?</p>
+			<h3>Fai esperienze enogastronomiche</h3>
+			<p>Un altro modo per trascorrere il tempo durante un viaggio di laurea è fare esperienze enogastronomiche. Ad esempio, potresti partecipare a degustazioni di vini o di formaggi, o visitare mercati locali per assaggiare i prodotti tipici del luogo. In questo modo, avrai l'opportunità di conoscere la cucina locale e di scoprire nuovi sapori e profumi.</p>
+			<h3>Conosci altre persone</h3>
+			<p>Un viaggio di laurea è anche un'ottima occasione per fare nuove conoscenze e per socializzare. Ad esempio, potresti unirti a gruppi di viaggiatori o a tour organizzati per conoscere altre persone e scambiare esperienze e consigli. In questo modo, potrai ampliare le tue amicizie e arricchire il tuo bagaglio culturale.</p>
+			<h2 id="quanto-costa">Quanto costa un viaggio di laurea</h2>
+			<p>Un viaggio di laurea è alla portata anche di chi ha pochi soldi da spendere. Anche se questo tipo di viaggio può sembrare un'esperienza costosa, ci sono moltissime opzioni per chi ha pochi soldi da spendere.</p>
+			<p>Qualche consiglio per risparmiare?</p>
+			<p>1. Prenota con ampio anticipo o cerca offerte last minute per risparmiare sull'alloggio.</p>
+			<p>2. Scegli mete più economiche o meno popolari, come il Salento o il Portogallo, che offrono un ottimo rapporto qualità-prezzo.</p>
+			<p>3. Accontentati di sistemazioni meno costose, come gli ostelli o le case vacanze.</p>
+			<p>4. Quando puoi, usa i mezzi pubblici.</p>
+			<p>5. Risparmia sui pasti scegliendo opzioni più economiche, come i mercati locali o gli street food.</p>
+			<p>Con un po' di pianificazione e di creatività, puoi organizzare un viaggio di laurea anche con un budget limitato.</p>
+			<h2 id="conclusione">Allora, cosa aspetti?</h2>
+			<p>In conclusione, il viaggio di laurea è un ottimo modo per festeggiare il risultato raggiunto e segnare il passaggio alla fase successiva della tua vita. Come hai visto se hai letto fino a qui, ci sono molte destinazioni diverse tra cui scegliere e una serie di fattori da considerare quando pianifichi il tuo viaggio, tra cui il budget, il periodo dell'anno e il tipo di attività ed esperienze che vuoi fare. Con un'attenta preparazione, puoi goderti al meglio questo viaggio speciale e creare ricordi che porterai sempre con te.</p>
+		  </div>
+        </div>
+      </div>      
+    </div>
+  </div>
+</div>
+
+  </div>
+  <div class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="footer-inner">
+          <h2 class="footer-title">Viaggio di laurea</h2>
+          <ul>
+            
+            
+            <li class="active">
+              <a href="#top">Top &uarr;</a>
+            </li>
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div class="sub-footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="sub-footer-inner">
+          
+            <!--<div class="social">
+  
+    <a href="https://github.com/zerostaticthemes/jekyll-serif-theme" target="blank"><img src="/images/social/github.svg" title="Github" alt="Github" /></a>
+  
+    <a href="https://twitter.com/zerostaticio" target="blank"><img src="/images/social/twitter.svg" title="Twitter" alt="Twitter" /></a>
+  
+</div>-->
+
+          
+          
+          <!--<div class="copyright">Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a></div>-->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+  <script type="text/javascript" src="/assets/js/scripts.js"></script>
+  
+</body>
+</html>
